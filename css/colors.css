@@ -1,0 +1,33 @@
+body{
+  background-color:#ecf0f1;
+  color:#34495e;
+}
+
+.top-bar, .top-bar-left .menu, .top-bar-right .menu{
+  background-color:#34495e;
+  color:#95a5a6;
+}
+
+.menu img{
+  width: 200px;
+  margin:-20px;
+}
+
+.top-bar-right .menu{
+  font-size:25px;
+  padding-top:20px;
+}
+
+
+.top-bar-right .menu a{
+  color:#F1C40F;
+  font-size:25px;
+}
+
+.dropdown .menu{
+  padding-top:-10px;
+}
+.dropdown .menu li a{
+  padding-top: -20px;
+  font-size: 18px;
+}
